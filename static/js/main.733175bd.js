@@ -20589,7 +20589,7 @@
         };
       }
       var s = r(885),
-        l = r.p + "static/media/banner.60504a26cb4bfed2088e.gif",
+        l = r.p + "static/media/pepe.jpg",
         c = [
           {
             inputs: [
